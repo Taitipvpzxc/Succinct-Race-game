@@ -2,6 +2,8 @@
 Succinct Race
 Succinct Race is a fast-paced, arcade-style racing game built using Python and Pygame. The game challenges players to control a car on a constantly moving road, avoiding obstacles while managing speed and handling. With a variety of mechanics, such as drifting and a dynamic road layout, players need to stay sharp as they navigate through the course.
 
+This is a fun racing game with a cryptographic twist! You’ve got a smooth combination of arcade-style racing mechanics, drifting, and even zero-knowledge "proofs" for collision detection.
+
 Features:
 Responsive Controls: Move your car left, right, accelerate, and decelerate with simple keyboard inputs (W/S for speed, A/D for direction).
 
