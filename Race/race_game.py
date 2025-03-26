@@ -333,6 +333,4 @@ while running:
     pygame.display.flip()
     clock.tick(60)
 
-# Останавливаем все звуки перед выходом
-pygame.mixer.stop()
 pygame.quit()
