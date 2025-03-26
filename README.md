@@ -36,7 +36,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/taitipvpzxc/succinct-race.git
+git clone https://github.com/taitipvpzxc/Succinct-Race-game.git
 Install required dependencies:
 
 bash
