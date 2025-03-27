@@ -32,24 +32,3 @@ Space: Drift (while holding this key)
 
 R: Restart after crash
 
-Installation:
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/taitipvpzxc/Succinct-Race-game.git
-Install required dependencies:
-
-bash
-Copy
-Edit
-pip install pygame
-Run the game:
-
-bash
-Copy
-Edit
-python main.py
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
